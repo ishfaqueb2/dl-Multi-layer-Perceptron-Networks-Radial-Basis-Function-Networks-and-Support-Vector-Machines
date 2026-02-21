@@ -63,7 +63,4 @@ This project implements and evaluates **Multi-Layer Perceptron (MLP)**, **Radial
 
 ## Usage
 
-1. Clone the repository:  
-   ```bash
-   git clone <repository-url>
-   cd IE7860-TermProject
+1. Clone the repository
