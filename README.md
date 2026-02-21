@@ -1,4 +1,4 @@
-# IE7860: Intelligent Analytics 
+# Intelligent Analytics 
 
 ## Project Overview
 This project implements and evaluates **Multi-Layer Perceptron (MLP)**, **Radial Basis Function (RBF)**, and **Support Vector Machine (SVM)** networks for three applications:
